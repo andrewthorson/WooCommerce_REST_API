@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+credentials.py
+*/credentials.py/*
+credentials.pyc
+*/credentials.pyc/*
+all_products.tsv
+*/all_products.tsv/*
